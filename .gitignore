@@ -1,0 +1,15 @@
+# 署名鍵・資格情報は置かない
+*.p8
+*.p12
+*.cer
+*.mobileprovision
+*.jks
+*.keystore
+google-play-credentials.json
+*.pem
+*.key
+*.env
+.env.*
+AuthKey_*.p8
+key.properties
+.DS_Store
